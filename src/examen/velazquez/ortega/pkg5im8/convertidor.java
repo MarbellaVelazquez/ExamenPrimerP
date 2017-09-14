@@ -24,6 +24,8 @@ public class convertidor extends JFrame{
     //variable utilizada para hacer operaciones
     private double resultado;
     
+    
+    
     //Constructor de la clase donde manda a llamar metodos que dan funcionalidad al programa
     public convertidor(){
         IniciarVentana();
